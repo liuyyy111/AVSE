@@ -1,4 +1,4 @@
-# Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment
+# Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment
 
 The official codes for our paper "[Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/32605)", which is accepted by the Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI’25).
 We referred to the implementations of [VSE++](https://github.com/fartashf/vsepp), [GPO](https://github.com/woodfrog/vse_infty), and [LAPS](https://github.com/CrossmodalGroup/LAPS) to build up the repository. 
